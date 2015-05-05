@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 90ed2c7e14a63dd4d9e15bd8cbcb493d
+timeCreated: 1430852120
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wallemovement4_0
+    21300002: wallemovement4_1
+    21300004: wallemovement4_2
+    21300006: wallemovement4_3
+    21300008: wallemovement4_4
+    21300010: wallemovement4_5
+    21300012: wallemovement4_6
+    21300014: wallemovement4_7
+    21300016: wallemovement4_8
+    21300018: wallemovement4_9
+    21300020: wallemovement4_10
+    21300022: wallemovement4_11
+    21300024: wallemovement4_12
+    21300026: wallemovement4_13
+    21300028: wallemovement4_14
+    21300030: wallemovement4_15
+    21300032: wallemovement4_16
+    21300034: wallemovement4_17
+    21300036: wallemovement4_18
+    21300038: wallemovement4_19
+    21300040: wallemovement4_20
+    21300042: wallemovement4_21
+    21300044: wallemovement4_22
+    21300046: wallemovement4_23
+    21300048: wallemovement4_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wallemovement4_0
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 712
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 549
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 559
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_3
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 555
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 371
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 371
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 369
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 367
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 370
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_9
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 368
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_10
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 369
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_11
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 369
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_12
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 370
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_13
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 369
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_14
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 368
+        width: 108
+        height: 91
+      alignment: 9
+      pivot: {x: .649501085, y: .547314644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_15
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 371
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_16
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 369
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_17
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 369
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_18
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 369
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_19
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 369
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_20
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 369
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_21
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 367
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_22
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 367
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_23
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 348
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wallemovement4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 3968
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
