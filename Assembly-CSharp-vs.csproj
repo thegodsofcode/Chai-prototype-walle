@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{A7C48D58-8EC8-FD3F-DCC4-639CED57B926}</ProjectGuid>
+	<ProjectGuid>{A9F67A00-5237-9DFB-6D7B-18EAE9FE2435}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -54,7 +54,7 @@
      <Compile Include="Assets\Completed  traveller\Scripts\Player.cs" />
      <Compile Include="Assets\Completed  traveller\Scripts\SoundManager.cs" />
      <Compile Include="Assets\Completed  traveller\Scripts\Wall.cs" />
-     <Compile Include="Assets\life.cs" />
+     <Compile Include="Assets\scripts\life.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
